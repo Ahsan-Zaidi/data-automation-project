@@ -1,0 +1,32 @@
+TITANIC DATASET - SUMMARY REPORT
+--------------------------------------------------
+
+Overall Survival Rate: 38.4%
+
+Survival Rate by Gender:
+Sex
+female    74.2
+male      18.9
+Name: Survived, dtype: float64
+
+Survival Rate by Passenger Class:
+Pclass
+1    63.0
+2    47.3
+3    24.2
+Name: Survived, dtype: float64
+
+Average Fare by Passenger Class:
+Pclass
+1    84.15
+2    20.66
+3    13.68
+Name: Fare, dtype: float64
+
+Passenger Count by Port Embarked:
+Embarked
+S    646
+C    168
+Q     77
+Name: count, dtype: int64
+
